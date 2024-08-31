@@ -23,6 +23,7 @@ public class SpringbootAwsDemoApplication {
 		return "<html><body style='font-family: Arial, sans-serif;'>" +
 				"<h1 style='color: #3498db;'>Hello, " + name + "!</h1>" +
 				"<p style='color: #e74c3c;'>Welcome to our Elastic bean service.</p>" +
+				"<p style='color: #e74c3c;'>This is after settingup the pipeline......</p>" +
 				"</body></html>";
 	}
 
